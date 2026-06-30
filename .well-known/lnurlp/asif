@@ -1,4 +1,8 @@
 {
-  "status": "ERROR",
-  "reason": "Lightning address not configured yet — node has no funded channels"
+  "status": "OK",
+  "callback": "https://walletofsatoshi.com/.well-known/lnurlp/snappyrescue96/callback",
+  "maxSendable": 100000000000,
+  "minSendable": 1000,
+  "metadata": "[[\"text/plain\",\"asif sovereign-node zap\"]]",
+  "tag": "payRequest"
 }
