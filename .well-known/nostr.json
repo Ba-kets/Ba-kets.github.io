@@ -1,0 +1,15 @@
+{
+  "names": {
+    "asif": "3fcfc1b3210b2b1ca9dddeaebb4de7e907b7cf83738d2865934813274139b872",
+    "_": "3fcfc1b3210b2b1ca9dddeaebb4de7e907b7cf83738d2865934813274139b872"
+  },
+  "relays": {
+    "3fcfc1b3210b2b1ca9dddeaebb4de7e907b7cf83738d2865934813274139b872": [
+      "wss://relay.damus.io",
+      "wss://nos.lol",
+      "wss://relay.primal.net",
+      "wss://nostr-pub.wellorder.net",
+      "wss://nostr.mom"
+    ]
+  }
+}

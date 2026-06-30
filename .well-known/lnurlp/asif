@@ -1,0 +1,4 @@
+{
+  "status": "ERROR",
+  "reason": "Lightning address not configured yet — node has no funded channels"
+}
